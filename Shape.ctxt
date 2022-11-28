@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Creates\ an\ abstract\ class\ for\ future\ shapes\ to\ inherit\ properties\r\n\ abstract\ methods\:\ perimeter\ and\ area\r\n\r\n\ @Anthony\ S\r\n\ @27\ Nov\ 22'\r\n
+comment1.params=name\ filled\ color
+comment1.target=Shape(java.lang.String,\ boolean,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ Creates\ a\ shape\ that\ requires\ a\ Str\ name,\ bool\ fill,\ and\ Str\ color\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\r\n\ @return\ Shape's\ color\r\n
+comment3.params=
+comment3.target=boolean\ filled()
+comment3.text=\r\n\ @return\ boolean\ depending\ on\ filled\ value\r\n
+comment4.params=
+comment4.target=double\ perimeter()
+comment4.text=\r\n\ Created\ abstract\ perimeter,\ for\ the\ calculation\ will\ be\ different\ depending\ on\ the\ subclass\r\n
+comment5.params=
+comment5.target=double\ area()
+comment5.text=\r\n\ Created\ abstract\ area,\ for\ the\ calculation\ will\ be\ different\ depending\ on\ subclass\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ @return\ formated\ toString()\r\n
+numComments=7

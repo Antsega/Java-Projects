@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Circle\ Shape\r\n\ able\ to\ find\ area,\ perimeter\ and\ toString()\ of\ instance\ variables\r\n\r\n\ @Anthony\ S\r\n\ @27\ Nov\ 22'\r\n
+comment1.params=radius\ color\ filled
+comment1.target=Circle(double,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ Creates\ a\ circle\ with\ a\ radius\r\n\ \r\n\ Inherits\ Shape\ constructor\r\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\r\n\ Calculates\ area\ of\ a\ circle\r\n\ \r\n\ @return\ PI\ *\ radius^2\r\n
+comment3.params=
+comment3.target=double\ perimeter()
+comment3.text=\r\n\ Calculates\ perimeter\ of\ a\ circle\r\n\ \r\n\ @return\ 2\ *\ PI\ *\ radius\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ @return\ calls\ Shape.toString()\ and\ appends\ Circle's\ insance\ variables\r\n
+numComments=5

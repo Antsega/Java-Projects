@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Triangle\ Shape\r\n\ able\ to\ find\ area,\ perimeter\ and\ toString()\ of\ instance\ variables\r\n\r\n\ @Anthony\ S\r\n\ @27\ Nov\ 22'\r\n
+comment1.params=side1\ side2\ side3\ color\ filled
+comment1.target=Triangle(double,\ double,\ double,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ assigns\ values\ to\ a\ triangle\ for\ each\ side\ as\ well\ as\ Shape's\ requirement's\r\n\ \r\n\ inherits\ shape\ constructor\ with\ super\r\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\r\n\ calls\ side2,\ divides\ by\ two\ and\ multiplies\ by\ side1\r\n\ \r\n\ @return\ area\ of\ triangle\r\n
+comment3.params=
+comment3.target=double\ perimeter()
+comment3.text=\r\n\ adds\ all\ sides\ together,\ saves\ as\ perimeter\r\n\ \r\n\ @return\ perimeter\ of\ triangle\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ @return\ calls\ Shape.toString()\ and\ appends\ Triangle's\ insance\ variables\r\n
+numComments=5
